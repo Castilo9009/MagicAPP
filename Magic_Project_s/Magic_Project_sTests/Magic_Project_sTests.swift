@@ -1,10 +1,3 @@
-//
-//  Magic_Project_sTests.swift
-//  Magic_Project_sTests
-//
-//  Created by Developer on 04/04/2015.
-//  Copyright (c) 2015 Developer. All rights reserved.
-//
 
 import UIKit
 import XCTest
@@ -13,7 +6,6 @@ class Magic_Project_sTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
-        // Put setup code here. This method is called before the invocation of each test method in the class.
     }
     
     override func tearDown() {
